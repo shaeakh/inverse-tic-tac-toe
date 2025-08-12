@@ -74,4 +74,3 @@ This project is open-source and available under the [MIT License](LICENSE).
 
 ---
 
-Do you want me to also **add a "How to Play" section** in the README so first-time players understand the inverse rules instantly? That would make it even more beginner-friendly.
